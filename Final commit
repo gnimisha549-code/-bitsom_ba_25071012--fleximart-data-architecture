@@ -1,0 +1,4 @@
+# Commit 9 (Required)
+git add README.md .gitignore data/
+git commit -m "[Docs] Update root README and finalize submission"
+git push origin main
