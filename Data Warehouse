@@ -1,0 +1,12 @@
+# Commit 6
+git add part3-datawarehouse/README.md part3-datawarehouse/star_schema_design.md
+git commit -m "[Part3] Add star schema documentation"
+
+# Commit 7 (Bonus)
+git add part3-datawarehouse/warehouse_schema.sql part3-datawarehouse/warehouse_data.sql
+git commit -m "[Part3] Implement warehouse schema and data load"
+
+# Commit 8 (Bonus)
+git add part3-datawarehouse/analytics_queries.sql
+git commit -m "[Part3] Implement OLAP analytics queries"
+git push origin main
