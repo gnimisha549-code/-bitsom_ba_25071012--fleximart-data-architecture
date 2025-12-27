@@ -1,0 +1,8 @@
+# Commit 4
+git add part2-nosql/README.md part2-nosql/products_catalog.json
+git commit -m "[Part2] Add product catalog JSON and NoSQL analysis"
+
+# Commit 5
+git add part2-nosql/nosql_analysis.md part2-nosql/mongodb_operations.js
+git commit -m "[Part2] Complete MongoDB operations and analysis"
+git push origin main
