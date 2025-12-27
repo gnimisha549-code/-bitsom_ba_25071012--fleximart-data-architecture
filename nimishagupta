@@ -1,0 +1,3 @@
+# Commit 1
+git add part1-database-etl/README.md part1-database-etl/requirements.txt
+git commit -m "[Part1] Initial ETL setup and requirements"
